@@ -16,6 +16,7 @@ const NewsApiPage = () => {
     };
 
     const test = null;
+    const test2 = null;
     const handleSearchButtonClick = () => {
         //   axios 통해 newsList 요청하기
 
