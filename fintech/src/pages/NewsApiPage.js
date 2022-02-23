@@ -15,6 +15,7 @@ const NewsApiPage = () => {
         setSearchText(value); //검색한 값을 state로 셋
     };
 
+    const test = null;
     const handleSearchButtonClick = () => {
         //   axios 통해 newsList 요청하기
 
