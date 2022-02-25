@@ -16,7 +16,7 @@ const NewsApiPage = () => {
     };
 
     const test = null;
-    const test2 = null;
+    const test2 = null; // 이건 그냥 커밋 테스트용 
     const handleSearchButtonClick = () => {
         //   axios 통해 newsList 요청하기
 
